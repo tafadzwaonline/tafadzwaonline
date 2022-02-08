@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tafadzwaonline
+- 👋 Hi, I’m Tafadzwa Kahwai
 - 👀 I’m interested in Software Development,Bitcoin,Stock Markets
 - 🌱 I’m currently a Final Year Computer Science Student
 - 💞️ I’m looking to collaborate on ...
