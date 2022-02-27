@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tafadzwa Kahwai
 - 👀 I’m interested in Software Development,Bitcoin,Stock Markets
 - 🌱 I’m currently a Final Year Computer Science Student,Freelance Developer
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on tafadzwaonline@gmail.com or 0784706556
 
 <!---
