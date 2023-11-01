@@ -1,5 +1,4 @@
-- 👋 Hi, my name is Tafadzwa Kahwai.
-- A Software developer                                                                                                                        
+- 👋 Hi, my name is Tafadzwa Kahwai.                                                                                                                      
 
 👨🏾‍💻 Currently working on C# ASP.NET(web forms, mvc and blazor(wasm and .net core) projects. 
 
