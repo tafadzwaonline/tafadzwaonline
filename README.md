@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Tafadzwa Kahwai.                                                                                                                      
+👋 Hi, my name is Tafadzwa Kahwai.                                                                                                                      
 
-👨🏾‍💻 Currently working on C# ASP.NET (Web Forms, MVC) and .NET Core (Blazor, ASP.NET Core MVC,Web APIs) projects
+👨🏾‍💻 Currently working on .Net projects
 
 ✌🏾 Looking forward to collaborating with other software developers or projects.
 
